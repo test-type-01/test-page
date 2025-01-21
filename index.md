@@ -9,7 +9,7 @@ The most important aspect of writing SEO-focused content is tailoring content to
 More info about search intent [here](https://www.google.com/).
 
 Also, **keywords should be used in an organic way,** spread throughout the content. **They should not be spammed** as this behavior is penalized by Search Engines.
-
+  
 
 # Optimize titles and headers
 **Article titles are paramount for SEO.** Titles should be catchy and grab attention but it is important they also include the keyword or keyword phrase being targeted.
@@ -18,7 +18,7 @@ Headers are prioritized by Search Engines, and their type also affects this prio
 Avoid duplicating headers or overtly similar ones on any given piece of content, though.
 
 **A good rule of thumb is to use questions as headers.** For article titles, a "question + statement" format can be used as well. For example, “[What is [redacted]?](https://www.google.com/)” and “[How many [redacted] are there? [redacted] explained](https://www.google.com/)”.
-
+  
 
 # Consider the first impression
 When someone lands on a piece of content, they should get the impression that they landed on the *right* piece of content.
@@ -30,15 +30,15 @@ If an image is used alongside the title, this image should not only be content-r
 The purpose of generating a good first impression is two-fold:
 First, we want users to go through the content and potentially click on any of the CTAs present throughout.
 Second, **we want to avoid "bouncing" as much as possible,** as Search Engines penalize URLs and domains that have a high ratio of users leaving the site too quickly after clicking on a search result.
-
+  
 
 # Content structure
 It is important to design content that is as easy to read as possible. **Avoid long paragraphs,** break them up if necessary. **Use bullet points or numbered lists** where possible for better scannability.
-
+  
 
 # URL optimization
 Ensure the page URL is short, readable, and includes the targeted keyword if possible. For example: /tealstreet-hyperliquid-trading-integration.
-
+  
 
 # Linking
 Whenever possible, **add links to relevant pages within the Tealstreet.io website** to build and grow the site’s internal linking.
@@ -46,7 +46,7 @@ Whenever possible, **add links to relevant pages within the Tealstreet.io websit
 Anchor links with descriptive, useful text. For example, “[Explore the [redacted] of [redacted]](https://www.google.com/)” Instead of “[Click here](https://www.google.com/) to read about [redacted]”.
 
 **Optimize Call-To-Actions (CTAs) with keywords and phrasing that highlight a benefit to the user,** for example “[Explore the [redacted]](https://www.google.com/)”. Try not to spam CTAs throughout the content but place them strategically instead: one right below the introduction/TLDR section, one or two peppered throughout if relevant and the article length allows it, and one at the end of the content.
-
+  
 
 # Meta-data
 ## Page Title tag:
@@ -70,6 +70,7 @@ Make sure to **include the targeted keyword** or keyword phrase.
 
 ## Alt Text for images:
 Ensure all images in the article **include descriptive alt text with targeted keywords.**
+  
 
 # References
 When in doubt about formatting or in need of some reference material, [[redacted]](https://www.google.com/) and [[redacted]](https://www.google.com/) are excellent sources of SEO-focused content and structure.
