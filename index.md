@@ -3,7 +3,7 @@ title: "[redacted] GUIDELINES MAIN PAGE"
 ---
 
 # Keywords and search intent are essential
-Any content, whether on [redacted] or on any other domain or social media (off-site), should target keywords or keyword phrases from the [[redacted]]https://www.google.com/). This signals search engines that we’re talking about a specific topic. Otherwise, a piece of content is just a journal entry.
+Any content, whether on [redacted] or on any other domain or social media (off-site), should target keywords or keyword phrases from the [[redacted]](https://www.google.com/). This signals search engines that we’re talking about a specific topic. Otherwise, a piece of content is just a journal entry.
 <br/>
 <br/>
 <br/>
@@ -79,7 +79,7 @@ Anchor links with descriptive, useful text. For example, “[Explore the [redact
 <br/>
 <br/>
 # Meta-data
-### Page Title tag:
+## Page Title tag:
 **Use the primary targeted keyword** in the Page Title tag. Do not spam keywords.
 <br/>
 <br/>
