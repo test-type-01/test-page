@@ -6,22 +6,32 @@ title: "[redacted] GUIDELINES MAIN PAGE"
 Any content, whether on [redacted] or on any other domain or social media (off-site), should target keywords or keyword phrases from the [[redacted]]https://www.google.com/). This signals search engines that we’re talking about a specific topic. Otherwise, a piece of content is just a journal entry.
 <br/>
 <br/>
+<br/>
 The most important aspect of writing SEO-focused content is tailoring content to match user search intent, ie. **content should primarily focus on why the user is searching for the targeted keyword:** is the user researching a topic? Are they looking for a specific website? Are they trying to complete an action, such as trading crypto or downloading a piece of software? **Googling the keyword phrase and checking the top results can provide insight into this.**
 More info about search intent [here](https://www.google.com/).
+<br/>
 <br/>
 <br/>
 Also, **keywords should be used in an organic way,** spread throughout the content. **They should not be spammed** as this behavior is penalized by Search Engines.
 <br/>
 <br/>
 <br/>
+<br/>
 # Optimize titles and headers
 **Article titles are paramount for SEO.** Titles should be catchy and grab attention but it is important they also include the keyword or keyword phrase being targeted.
-
+<br/>
+<br/>
+<br/>
 Headers are prioritized by Search Engines, and their type also affects this prioritization (\<H1\> having more 'weight' than \<H2\> and so on), so **headers are prime real estate for pushing the targeted keyword.** 
 Avoid duplicating headers or overtly similar ones on any given piece of content, though.
-
+<br/>
+<br/>
+<br/>
 **A good rule of thumb is to use questions as headers.** For article titles, a "question + statement" format can be used as well. For example, “[What is [redacted]?](https://www.google.com/)” and “[How many [redacted] are there? [redacted] explained](https://www.google.com/)”.
-  
+<br/>
+<br/>
+<br/>
+<br/>
 
 # Consider the first impression
 When someone lands on a piece of content, they should get the impression that they landed on the *right* piece of content.
