@@ -1,5 +1,6 @@
 ---
-title: "[redacted] GUIDELINES MAIN PAGE" <!-- title so far not shown when using hacker theme -->
+title: "[redacted] GUIDELINES MAIN PAGE" 
+# title so far not shown when using hacker theme
 ---
 
 # Keywords and search intent are essential
