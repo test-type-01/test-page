@@ -7,7 +7,8 @@ Any content, whether on [redacted] or on any other domain or social media (off-s
 <br/>
 <br/>
 <br/>
-The most important aspect of writing SEO-focused content is tailoring content to match user search intent, ie. **content should primarily focus on why the user is searching for the targeted keyword:** is the user researching a topic? Are they looking for a specific website? Are they trying to complete an action, such as trading crypto or downloading a piece of software? **Googling the keyword phrase and checking the top results can provide insight into this.**
+The most important aspect of writing SEO-focused content is tailoring content to match user search intent, ie. **content should primarily focus on why the user is searching for the targeted keyword:** is the user researching a topic? Are they looking for a specific website? Are they trying to complete an action, such as trading crypto or downloading a piece of software?  
+**Googling the keyword phrase and checking the top results can provide insight into this.**  
 More info about search intent [here](https://www.google.com/).
 <br/>
 <br/>
