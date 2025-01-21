@@ -4,13 +4,16 @@ title: "[redacted] GUIDELINES MAIN PAGE"
 
 # Keywords and search intent are essential
 Any content, whether on [redacted] or on any other domain or social media (off-site), should target keywords or keyword phrases from the [[redacted]]https://www.google.com/). This signals search engines that we’re talking about a specific topic. Otherwise, a piece of content is just a journal entry.
-
+<br/>
+<br/>
 The most important aspect of writing SEO-focused content is tailoring content to match user search intent, ie. **content should primarily focus on why the user is searching for the targeted keyword:** is the user researching a topic? Are they looking for a specific website? Are they trying to complete an action, such as trading crypto or downloading a piece of software? **Googling the keyword phrase and checking the top results can provide insight into this.**
 More info about search intent [here](https://www.google.com/).
-
+<br/>
+<br/>
 Also, **keywords should be used in an organic way,** spread throughout the content. **They should not be spammed** as this behavior is penalized by Search Engines.
-  
-
+<br/>
+<br/>
+<br/>
 # Optimize titles and headers
 **Article titles are paramount for SEO.** Titles should be catchy and grab attention but it is important they also include the keyword or keyword phrase being targeted.
 
