@@ -79,7 +79,7 @@ Anchor links with descriptive, useful text. For example, “[Explore the [redact
 <br/>
 <br/>
 # Meta-data
-## Page Title tag:
+### Page Title tag:
 **Use the primary targeted keyword** in the Page Title tag. Do not spam keywords.
 <br/>
 <br/>
